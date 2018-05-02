@@ -1,0 +1,16 @@
+
+label {
+    text-align: left;
+    font-size: 1rem;
+}
+li {
+    text-align: left;
+    font-size: 1.5rem;
+}
+.crop {
+    overflow: hidden;
+}
+
+.crop img {
+    margin: -25% 0 0 0;
+}
